@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PEproject>
   <Header>
-    <Name>freertos_s32k148</Name>
+    <Name>freertos_s32k148_LED_1</Name>
     <SavedBy>B55288</SavedBy>
     <ModificationStamp>25</ModificationStamp>
     <Date>2015-10-14</Date>
